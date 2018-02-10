@@ -26,7 +26,7 @@ service mosu
         irq
                 0         # TIMER 0 IQ
                 1         # KBD IRQ 
-                8		  # RTC IRQ
+                8	  # RTC IRQ
                 12        # AUX/MOUSE IRQ
                 ;       
         uid     0               
